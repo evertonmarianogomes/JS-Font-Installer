@@ -8,6 +8,6 @@ Instale suas fontes no Windows de forma fácil com uma interface simples e diret
 
 # Como usar
 
-- Baixe o executável para Windows
+- Baixe o executável para Windows (64 Bits)[https://drive.google.com/uc?export=download&id=1U8-qMxSy3vVP9ltaDgHRr2cYNqBkL7KB]
 - Insira a pasta que contém os arquivos de fonte
 - Aguarde a instalação e aproveite suas fontes.
