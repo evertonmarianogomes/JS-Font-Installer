@@ -1,0 +1,23 @@
+{
+  "name": "js-font-install",
+  "version": "1.0.0",
+  "description": "JS Font Installer for Windows 10!",
+  "main": "main.js",
+  "author": "Everton M. Gomes",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^13.1.4",
+    "electron-packager": "^15.2.0",
+    "electron-reload": "^1.5.0"
+  },
+  "scripts": {
+    "start": "electron .",
+    "build": "electron-packager . --platform=win32 --asar"
+  },
+  "dependencies": {
+    "fs-extra": "^8.1.0",
+    "jquery": "^3.6.0",
+    "node-powershell": "^4.0.0",
+    "pako": "^2.0.3"
+  }
+}

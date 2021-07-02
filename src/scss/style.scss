@@ -1,0 +1,14 @@
+#buttons {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;   
+}
+
+p#selected_directory {
+    margin-top: 20px;
+}
+
+#commandList {
+    overflow-x: hidden;
+    height: 50vh;
+}

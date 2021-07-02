@@ -1,0 +1,13 @@
+{
+    "liveSassCompile.settings.excludeList": [
+        "**/node_modules/**",
+        ".vscode/**",
+        "**/vendor/**"
+    ],
+    "liveSassCompile.settings.formats": [{
+        "format": "compressed",
+        "extensionName": ".css",
+        "savePath": "./dist/css/"
+    }],
+    "editor.wordWrap": "on"
+}
